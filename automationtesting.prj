@@ -3,9 +3,16 @@
    <description></description>
    <name>automationtesting</name>
    <tag></tag>
+<<<<<<< HEAD
    <UUID>ac387bc2-02c9-4296-b5f1-c4db5cd74215</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+=======
+   <UUID>6315f12a-65af-4c0e-9c66-63ddcf9ea89b</UUID>
+   <migratedVersion>5.9.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\Athirah\Katalon Studio\automationtesting.git (3)\automationtesting.prj</projectFileLocation>
+>>>>>>> branch 'main' of https://github.com/hananifaqihah/automationtesting
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
