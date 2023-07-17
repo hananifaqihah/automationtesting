@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Testzz,,try test git sharing,,2023-07-17 14:00:31,2023-07-17 14:01:48,1m - 16.993s,PASSED
+,,,,,,,
+Test Cases/Login Successfully,,,,2023-07-17 14:00:31,2023-07-17 14:01:48,1m - 16.506s,PASSED
+"startApplication(""C:\Users\User\Downloads\4.0.52.apk"", true)",,,,2023-07-17 14:00:32,2023-07-17 14:01:26,54.167s,PASSED
+"tap(findTestObject(""Object Repository/UAT Test/android.widget.TextView - I have an account""), 0)",,,,2023-07-17 14:01:26,2023-07-17 14:01:29,3.236s,PASSED
+"setText(findTestObject(""Object Repository/UAT Test/android.widget.EditText - Email""), ""uatdemo3@ramssol.com"", 0)",,,,2023-07-17 14:01:29,2023-07-17 14:01:32,2.475s,PASSED
+"setText(findTestObject(""Object Repository/UAT Test/android.widget.EditText - Password""), ""Password01"", 0)",,,,2023-07-17 14:01:32,2023-07-17 14:01:33,1.705s,PASSED
+"tap(findTestObject(""Object Repository/UAT Test/android.widget.Button - Log In""), 0)",,,,2023-07-17 14:01:33,2023-07-17 14:01:34,0.722s,PASSED
+"tap(findTestObject(""Object Repository/UAT Test/android.widget.Button - Cancel""), 0)",,,,2023-07-17 14:01:34,2023-07-17 14:01:40,5.788s,PASSED
+"tap(findTestObject(""Object Repository/UAT Test/android.widget.ImageView""), 0)",,,,2023-07-17 14:01:40,2023-07-17 14:01:41,1.161s,PASSED
+"scrollToText(""Log Out"")",,,,2023-07-17 14:01:41,2023-07-17 14:01:45,3.655s,PASSED
+"tap(findTestObject(""Object Repository/UAT Test/android.widget.TextView - Log Out""), 0)",,,,2023-07-17 14:01:45,2023-07-17 14:01:45,0.456s,PASSED
+"tap(findTestObject(""Object Repository/UAT Test/android.widget.TextView - Yes""), 0)",,,,2023-07-17 14:01:45,2023-07-17 14:01:46,1.080s,PASSED
+closeApplication(),,,,2023-07-17 14:01:46,2023-07-17 14:01:47,1.419s,PASSED
