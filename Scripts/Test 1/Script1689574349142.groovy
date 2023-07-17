@@ -17,25 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('C:\\Users\\User\\Downloads\\4.0.52.apk', true)
-
-Mobile.tap(findTestObject('Object Repository/UAT Test/android.widget.TextView - I have an account'), 0)
-
-Mobile.setText(findTestObject('Object Repository/UAT Test/android.widget.EditText - Email'), 'uatdemo3@ramssol.com', 0)
-
-Mobile.setText(findTestObject('Object Repository/UAT Test/android.widget.EditText - Password'), 'Password01', 0)
-
-Mobile.tap(findTestObject('Object Repository/UAT Test/android.widget.Button - Log In'), 0)
-
-Mobile.tap(findTestObject('Object Repository/UAT Test/android.widget.Button - Cancel'), 0)
-
-Mobile.tap(findTestObject('Object Repository/UAT Test/android.widget.ImageView'), 0)
-
-Mobile.scrollToText('Log Out')
-
-Mobile.tap(findTestObject('Object Repository/UAT Test/android.widget.TextView - Log Out'), 0)
-
-Mobile.tap(findTestObject('Object Repository/UAT Test/android.widget.TextView - Yes'), 0)
-
-Mobile.closeApplication()
-
