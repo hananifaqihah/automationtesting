@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Hanani,,,,2023-07-17 10:48:00,2023-07-17 10:49:13,1m - 12.743s,PASSED
+,,,,,,,
+"Test Cases/Login,Logout",,,,2023-07-17 10:48:01,2023-07-17 10:49:13,1m - 12.310s,PASSED
+"startApplication(""C:\Users\User\Downloads\4.0.52.apk"", true)",,,,2023-07-17 10:48:01,2023-07-17 10:48:53,52.005s,PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.TextView - I have an account""), 0)",,,,2023-07-17 10:48:53,2023-07-17 10:48:56,2.869s,PASSED
+"setText(findTestObject(""Object Repository/Login/android.widget.EditText - Email""), ""uatdemo7@ramssol.com"", 0)",,,,2023-07-17 10:48:56,2023-07-17 10:48:59,3.439s,PASSED
+"setText(findTestObject(""Object Repository/Login/android.widget.EditText - Password""), ""Password01"", 0)",,,,2023-07-17 10:48:59,2023-07-17 10:49:01,1.828s,PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.Button - Log In""), 0)",,,,2023-07-17 10:49:01,2023-07-17 10:49:02,0.795s,PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.ImageView""), 0)",,,,2023-07-17 10:49:02,2023-07-17 10:49:07,5.214s,PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.TextView - Log Out""), 0)",,,,2023-07-17 10:49:07,2023-07-17 10:49:09,1.949s,PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.TextView - Yes""), 0)",,,,2023-07-17 10:49:09,2023-07-17 10:49:11,1.324s,PASSED
+closeApplication(),,,,2023-07-17 10:49:11,2023-07-17 10:49:13,2.309s,PASSED

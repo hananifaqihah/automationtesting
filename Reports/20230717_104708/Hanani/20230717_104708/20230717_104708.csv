@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Hanani,,,,2023-07-17 10:47:19,2023-07-17 10:47:21,1.396s,FAILED
+,,,,,,,
+"Test Cases/Login,Logout",,,,2023-07-17 10:47:20,2023-07-17 10:47:21,0.896s,FAILED
+"startApplication(""C:\Users\User\Downloads\4.0.52.apk"", true)",,,,2023-07-17 10:47:21,2023-07-17 10:47:21,0.327s,FAILED
